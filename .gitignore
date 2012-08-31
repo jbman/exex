@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+# Dot files
+.*
+
+# Compiled / Generated files #
+target/
