@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers xmlns="http://www.jbman.github.com/exex/v1" xmlns:ns2="http://www.w3.org/2005/Atom">
+	<customer id="1">
+		<first-name>Roland</first-name>
+		<last-name>Langston</last-name>
+		<street>746 Hill Avenue</street>
+		<city>Fabens</city>
+		<state>HI</state>
+		<zip>87743</zip>
+	</customer>
+	<customer id="2">
+		<first-name>Tony</first-name>
+		<last-name>Salas</last-name>
+		<street>2642 Hill Blvd.</street>
+		<city>Jefferson City</city>
+		<state>FL</state>
+		<zip>66317</zip>
+	</customer>
+	<customer id="3">
+		<first-name>Jania</first-name>
+		<last-name>Wiles</last-name>
+		<street>2655 Park Blvd.</street>
+		<city>Hartsdale</city>
+		<state>TX</state>
+		<zip>41602</zip>
+	</customer>
+	<customer id="4">
+		<first-name>Zavier</first-name>
+		<last-name>Schell</last-name>
+		<street>3905 Eighth Road</street>
+		<city>Raritan</city>
+		<state>NC</state>
+		<zip>62105</zip>
+	</customer>
+	<customer id="5">
+		<first-name>Meir</first-name>
+		<last-name>Talbot</last-name>
+		<street>1418 Elm Street</street>
+		<city>Pullman</city>
+		<state>KS</state>
+		<zip>43393</zip>
+	</customer>
+	<customer id="6">
+		<first-name>Laurence</first-name>
+		<last-name>Rosenbaum</last-name>
+		<street>282 Cedar Street</street>
+		<city>Knik-Fairview</city>
+		<state>OH</state>
+		<zip>55511</zip>
+	</customer>
+	<customer id="7">
+		<first-name>Kianga</first-name>
+		<last-name>Stegall</last-name>
+		<street>902 View Circle</street>
+		<city>Harvey</city>
+		<state>MI</state>
+		<zip>78084</zip>
+	</customer>
+	<customer id="8">
+		<first-name>Darah</first-name>
+		<last-name>Reyes</last-name>
+		<street>3994 Fourth Circle</street>
+		<city>Salina</city>
+		<state>WI</state>
+		<zip>52965</zip>
+	</customer>
+	<customer id="9">
+		<first-name>Jadon</first-name>
+		<last-name>Franklin</last-name>
+		<street>4120 Oak Blvd.</street>
+		<city>Portland</city>
+		<state>OR</state>
+		<zip>62397</zip>
+	</customer>
+	<customer id="10">
+		<first-name>Daveigh</first-name>
+		<last-name>Stump</last-name>
+		<street>4250 Park Blvd.</street>
+		<city>Hastings</city>
+		<state>MN</state>
+		<zip>46248</zip>
+	</customer>
+	<customer id="11">
+		<first-name>Lou</first-name>
+		<last-name>Oaks</last-name>
+		<street>678 Cedar Avenue</street>
+		<city>Chili</city>
+		<state>FL</state>
+		<zip>75133</zip>
+	</customer>
+	<customer id="12">
+		<first-name>Kaethe</first-name>
+		<last-name>Enriquez</last-name>
+		<street>2968 Washington Avenue</street>
+		<city>Apex</city>
+		<state>OH</state>
+		<zip>86537</zip>
+	</customer>
+	<customer id="13">
+		<first-name>Beth</first-name>
+		<last-name>Corbitt</last-name>
+		<street>947 Pine Road</street>
+		<city>Lincoln</city>
+		<state>NY</state>
+		<zip>90024</zip>
+	</customer>
+	<customer id="14">
+		<first-name>Rachelle</first-name>
+		<last-name>Corral</last-name>
+		<street>1536 Fifth Circle</street>
+		<city>Rowlett</city>
+		<state>NJ</state>
+		<zip>50838</zip>
+	</customer>
+	<customer id="15">
+		<first-name>Jira</first-name>
+		<last-name>Bush</last-name>
+		<street>1082 Sixth Road</street>
+		<city>Beverly</city>
+		<state>CA</state>
+		<zip>91444</zip>
+	</customer>
+	<customer id="16">
+		<first-name>Georgia</first-name>
+		<last-name>Wentz</last-name>
+		<street>3091 Lake Circle</street>
+		<city>Concord</city>
+		<state>OR</state>
+		<zip>59861</zip>
+	</customer>
+	<customer id="17">
+		<first-name>Nizana</first-name>
+		<last-name>Florez</last-name>
+		<street>3862 Washington Street</street>
+		<city>Lincolnia</city>
+		<state>PA</state>
+		<zip>35777</zip>
+	</customer>
+	<customer id="18">
+		<first-name>Fritzi</first-name>
+		<last-name>Otoole</last-name>
+		<street>1954 Eighth Road</street>
+		<city>New Haven</city>
+		<state>OH</state>
+		<zip>98905</zip>
+	</customer>
+	<customer id="19">
+		<first-name>Gaynell</first-name>
+		<last-name>Hines</last-name>
+		<street>632 Ninth Circle</street>
+		<city>Farmington</city>
+		<state>CA</state>
+		<zip>43769</zip>
+	</customer>
+	<customer id="20">
+		<first-name>Maryanne</first-name>
+		<last-name>Aquino</last-name>
+		<street>3570 Maple Street</street>
+		<city>Ocoee</city>
+		<state>AK</state>
+		<zip>25810</zip>
+	</customer>
+	<customer id="21">
+		<first-name>Chauncey</first-name>
+		<last-name>Lemon</last-name>
+		<street>4085 Oak Street</street>
+		<city>Bemidji</city>
+		<state>TX</state>
+		<zip>61664</zip>
+	</customer>
+	<customer id="22">
+		<first-name>Connie</first-name>
+		<last-name>Battle</last-name>
+		<street>1938 Ninth Avenue</street>
+		<city>Coatesville</city>
+		<state>MA</state>
+		<zip>92545</zip>
+	</customer>
+	<customer id="23">
+		<first-name>Brandie</first-name>
+		<last-name>Lim</last-name>
+		<street>1889 Sixth Blvd.</street>
+		<city>Yucaipa</city>
+		<state>NY</state>
+		<zip>51446</zip>
+	</customer>
+	<customer id="24">
+		<first-name>Osvaldo</first-name>
+		<last-name>Goldberg</last-name>
+		<street>2528 View Road</street>
+		<city>Middle Valley</city>
+		<state>RI</state>
+		<zip>59491</zip>
+	</customer>
+	<customer id="25">
+		<first-name>Bahati</first-name>
+		<last-name>Ricks</last-name>
+		<street>3162 Eighth Street</street>
+		<city>Indianapolis</city>
+		<state>KY</state>
+		<zip>82987</zip>
+	</customer>
+	<customer id="26">
+		<first-name>Caiden</first-name>
+		<last-name>Spear</last-name>
+		<street>1214 Main Road</street>
+		<city>Cocoa Beach</city>
+		<state>MA</state>
+		<zip>43979</zip>
+	</customer>
+	<customer id="27">
+		<first-name>Kabira</first-name>
+		<last-name>Sanderson</last-name>
+		<street>3158 Hill Blvd.</street>
+		<city>Carroll</city>
+		<state>NJ</state>
+		<zip>83433</zip>
+	</customer>
+	<customer id="28">
+		<first-name>Cesar</first-name>
+		<last-name>Rhea</last-name>
+		<street>173 Hill Road</street>
+		<city>Albertville</city>
+		<state>MD</state>
+		<zip>57155</zip>
+	</customer>
+	<customer id="29">
+		<first-name>Karlee</first-name>
+		<last-name>Cochran</last-name>
+		<street>2898 Lake Blvd.</street>
+		<city>San Marino</city>
+		<state>FL</state>
+		<zip>11618</zip>
+	</customer>
+	<customer id="30">
+		<first-name>Irvin</first-name>
+		<last-name>Webster</last-name>
+		<street>1843 View Blvd.</street>
+		<city>Clinton</city>
+		<state>FL</state>
+		<zip>65715</zip>
+	</customer>
+	<customer id="31">
+		<first-name>Reese</first-name>
+		<last-name>Ragland</last-name>
+		<street>768 Ninth Circle</street>
+		<city>Bloomfield Township</city>
+		<state>IN</state>
+		<zip>77839</zip>
+	</customer>
+	<customer id="32">
+		<first-name>Rhiannon</first-name>
+		<last-name>Keen</last-name>
+		<street>3120 Eighth Blvd.</street>
+		<city>Murray</city>
+		<state>NY</state>
+		<zip>97601</zip>
+	</customer>
+	<customer id="33">
+		<first-name>Valerie</first-name>
+		<last-name>Mendoza</last-name>
+		<street>1174 Hill Circle</street>
+		<city>Waynesboro</city>
+		<state>IN</state>
+		<zip>21785</zip>
+	</customer>
+	<customer id="34">
+		<first-name>Dorthy</first-name>
+		<last-name>Bower</last-name>
+		<street>3744 Maple Street</street>
+		<city>Concord</city>
+		<state>IA</state>
+		<zip>23195</zip>
+	</customer>
+	<customer id="35">
+		<first-name>Langdon</first-name>
+		<last-name>Chaney</last-name>
+		<street>1919 Seventh Avenue</street>
+		<city>South Williamsport</city>
+		<state>VA</state>
+		<zip>83954</zip>
+	</customer>
+	<customer id="36">
+		<first-name>Xavier</first-name>
+		<last-name>Waller</last-name>
+		<street>1707 View Circle</street>
+		<city>Cortez</city>
+		<state>CA</state>
+		<zip>16085</zip>
+	</customer>
+	<customer id="37">
+		<first-name>Jaella</first-name>
+		<last-name>Gentry</last-name>
+		<street>3038 Hill Circle</street>
+		<city>Stillwater</city>
+		<state>TX</state>
+		<zip>28349</zip>
+	</customer>
+	<customer id="38">
+		<first-name>Evert</first-name>
+		<last-name>Smalley</last-name>
+		<street>1387 Sixth Circle</street>
+		<city>New Bern</city>
+		<state>NY</state>
+		<zip>19962</zip>
+	</customer>
+	<customer id="39">
+		<first-name>Peyton</first-name>
+		<last-name>Hooks</last-name>
+		<street>1113 Park Avenue</street>
+		<city>Farragut</city>
+		<state>SC</state>
+		<zip>66781</zip>
+	</customer>
+	<customer id="40">
+		<first-name>Jalisa</first-name>
+		<last-name>Schmid</last-name>
+		<street>174 Park Blvd.</street>
+		<city>Wakefield</city>
+		<state>CA</state>
+		<zip>80721</zip>
+	</customer>
+	<customer id="41">
+		<first-name>Reva</first-name>
+		<last-name>Walling</last-name>
+		<street>63 Washington Road</street>
+		<city>Pacifica</city>
+		<state>CA</state>
+		<zip>87586</zip>
+	</customer>
+	<customer id="42">
+		<first-name>Mickey</first-name>
+		<last-name>Partridge</last-name>
+		<street>463 View Blvd.</street>
+		<city>Goshen</city>
+		<state>WI</state>
+		<zip>95308</zip>
+	</customer>
+	<customer id="43">
+		<first-name>Bridget</first-name>
+		<last-name>Burks</last-name>
+		<street>53 Lake Road</street>
+		<city>Scotchtown</city>
+		<state>NY</state>
+		<zip>94067</zip>
+	</customer>
+	<customer id="44">
+		<first-name>Cady</first-name>
+		<last-name>Craft</last-name>
+		<street>1019 Third Circle</street>
+		<city>Lexington</city>
+		<state>MN</state>
+		<zip>71394</zip>
+	</customer>
+	<customer id="45">
+		<first-name>Elette</first-name>
+		<last-name>Mcbride</last-name>
+		<street>2593 Main Road</street>
+		<city>Trinity</city>
+		<state>TX</state>
+		<zip>10473</zip>
+	</customer>
+	<customer id="46">
+		<first-name>Cyril</first-name>
+		<last-name>Kraft</last-name>
+		<street>2833 Elm Avenue</street>
+		<city>Coatesville</city>
+		<state>MN</state>
+		<zip>34433</zip>
+	</customer>
+	<customer id="47">
+		<first-name>Johnathan</first-name>
+		<last-name>Saavedra</last-name>
+		<street>518 Oak Blvd.</street>
+		<city>Bennsville</city>
+		<state>MI</state>
+		<zip>95835</zip>
+	</customer>
+	<customer id="48">
+		<first-name>Shana</first-name>
+		<last-name>Eckert</last-name>
+		<street>4638 Washington Road</street>
+		<city>North Greenbush</city>
+		<state>MD</state>
+		<zip>91160</zip>
+	</customer>
+	<customer id="49">
+		<first-name>Maira</first-name>
+		<last-name>Hubbard</last-name>
+		<street>2653 Hill Blvd.</street>
+		<city>St. Marys</city>
+		<state>NY</state>
+		<zip>78463</zip>
+	</customer>
+	<customer id="50">
+		<first-name>Gwen</first-name>
+		<last-name>Barrett</last-name>
+		<street>2045 Pine Circle</street>
+		<city>Jacksonville</city>
+		<state>MI</state>
+		<zip>11102</zip>
+	</customer>
+	<customer id="51">
+		<first-name>Arielle</first-name>
+		<last-name>Blackburn</last-name>
+		<street>3119 Park Blvd.</street>
+		<city>Conroe</city>
+		<state>NY</state>
+		<zip>96415</zip>
+	</customer>
+	<customer id="52">
+		<first-name>Coleman</first-name>
+		<last-name>Temple</last-name>
+		<street>723 Elm Road</street>
+		<city>Veradale</city>
+		<state>CO</state>
+		<zip>50157</zip>
+	</customer>
+	<customer id="53">
+		<first-name>Asabi</first-name>
+		<last-name>Hamrick</last-name>
+		<street>3838 Hill Avenue</street>
+		<city>Hobe Sound</city>
+		<state>GA</state>
+		<zip>71767</zip>
+	</customer>
+	<customer id="54">
+		<first-name>Kalie</first-name>
+		<last-name>Alston</last-name>
+		<street>3528 Hill Road</street>
+		<city>Stonington</city>
+		<state>WA</state>
+		<zip>82803</zip>
+	</customer>
+	<customer id="55">
+		<first-name>Bahati</first-name>
+		<last-name>Arteaga</last-name>
+		<street>2523 Elm Circle</street>
+		<city>Washington</city>
+		<state>TX</state>
+		<zip>18972</zip>
+	</customer>
+	<customer id="56">
+		<first-name>Aislinn</first-name>
+		<last-name>Ray</last-name>
+		<street>3154 Maple Blvd.</street>
+		<city>River Edge</city>
+		<state>MA</state>
+		<zip>72008</zip>
+	</customer>
+	<customer id="57">
+		<first-name>Dottie</first-name>
+		<last-name>Wick</last-name>
+		<street>679 Fourth Blvd.</street>
+		<city>Steubenville</city>
+		<state>PA</state>
+		<zip>30141</zip>
+	</customer>
+	<customer id="58">
+		<first-name>Gladstone</first-name>
+		<last-name>Blackmon</last-name>
+		<street>3667 Seventh Avenue</street>
+		<city>Saugerties</city>
+		<state>MN</state>
+		<zip>68397</zip>
+	</customer>
+	<customer id="59">
+		<first-name>Huyen</first-name>
+		<last-name>Nobles</last-name>
+		<street>2653 Main Circle</street>
+		<city>Islamorada</city>
+		<state>TX</state>
+		<zip>52544</zip>
+	</customer>
+	<customer id="60">
+		<first-name>Keyah</first-name>
+		<last-name>Lynch</last-name>
+		<street>1450 View Circle</street>
+		<city>Orange Lake</city>
+		<state>WA</state>
+		<zip>22731</zip>
+	</customer>
+	<customer id="61">
+		<first-name>Wayland</first-name>
+		<last-name>Mcconnell</last-name>
+		<street>1483 View Avenue</street>
+		<city>Eatontown</city>
+		<state>NY</state>
+		<zip>46160</zip>
+	</customer>
+	<customer id="62">
+		<first-name>Emery</first-name>
+		<last-name>Forrest</last-name>
+		<street>2946 Hill Avenue</street>
+		<city>Long Branch</city>
+		<state>ME</state>
+		<zip>78280</zip>
+	</customer>
+	<customer id="63">
+		<first-name>Ambu</first-name>
+		<last-name>Southern</last-name>
+		<street>168 Third Circle</street>
+		<city>Swarthmore</city>
+		<state>MA</state>
+		<zip>51567</zip>
+	</customer>
+	<customer id="64">
+		<first-name>Tracey</first-name>
+		<last-name>Mayo</last-name>
+		<street>2705 Seventh Blvd.</street>
+		<city>San Juan</city>
+		<state>IL</state>
+		<zip>52139</zip>
+	</customer>
+	<customer id="65">
+		<first-name>Miette</first-name>
+		<last-name>Albrecht</last-name>
+		<street>640 Washington Circle</street>
+		<city>Plymouth</city>
+		<state>TX</state>
+		<zip>81005</zip>
+	</customer>
+	<customer id="66">
+		<first-name>Mandar</first-name>
+		<last-name>Sheets</last-name>
+		<street>1464 Maple Avenue</street>
+		<city>Taunton</city>
+		<state>CT</state>
+		<zip>77040</zip>
+	</customer>
+	<customer id="67">
+		<first-name>Myrtis</first-name>
+		<last-name>Fox</last-name>
+		<street>2011 Pine Street</street>
+		<city>Pompton Lakes</city>
+		<state>NY</state>
+		<zip>37910</zip>
+	</customer>
+	<customer id="68">
+		<first-name>Chumani</first-name>
+		<last-name>Hoy</last-name>
+		<street>4197 First Blvd.</street>
+		<city>Norway</city>
+		<state>PA</state>
+		<zip>77753</zip>
+	</customer>
+	<customer id="69">
+		<first-name>Mia</first-name>
+		<last-name>White</last-name>
+		<street>3823 Second Road</street>
+		<city>Dunn Loring</city>
+		<state>CA</state>
+		<zip>72740</zip>
+	</customer>
+	<customer id="70">
+		<first-name>Lalla</first-name>
+		<last-name>Murillo</last-name>
+		<street>340 View Avenue</street>
+		<city>Fairfax</city>
+		<state>TX</state>
+		<zip>98605</zip>
+	</customer>
+	<customer id="71">
+		<first-name>Kayden</first-name>
+		<last-name>Amaral</last-name>
+		<street>1840 Cedar Circle</street>
+		<city>Upper Grand Lagoon</city>
+		<state>OH</state>
+		<zip>95403</zip>
+	</customer>
+	<customer id="72">
+		<first-name>Jannie</first-name>
+		<last-name>Benavides</last-name>
+		<street>68 First Avenue</street>
+		<city>Cocoa Beach</city>
+		<state>OH</state>
+		<zip>11204</zip>
+	</customer>
+	<customer id="73">
+		<first-name>Chasity</first-name>
+		<last-name>Corbin</last-name>
+		<street>2643 Fifth Circle</street>
+		<city>Montecito</city>
+		<state>PA</state>
+		<zip>67095</zip>
+	</customer>
+	<customer id="74">
+		<first-name>Livi</first-name>
+		<last-name>Tejada</last-name>
+		<street>4273 Eighth Road</street>
+		<city>Pembroke</city>
+		<state>MA</state>
+		<zip>33911</zip>
+	</customer>
+	<customer id="75">
+		<first-name>Leeroy</first-name>
+		<last-name>Passmore</last-name>
+		<street>4624 Fourth Blvd.</street>
+		<city>Mamakating</city>
+		<state>NY</state>
+		<zip>16871</zip>
+	</customer>
+	<customer id="76">
+		<first-name>Ryan</first-name>
+		<last-name>Aguiar</last-name>
+		<street>3281 Lake Avenue</street>
+		<city>Wharton</city>
+		<state>CA</state>
+		<zip>97142</zip>
+	</customer>
+	<customer id="77">
+		<first-name>Glory</first-name>
+		<last-name>Metzger</last-name>
+		<street>2192 Eighth Blvd.</street>
+		<city>Madison Heights</city>
+		<state>TX</state>
+		<zip>10749</zip>
+	</customer>
+	<customer id="78">
+		<first-name>Brigitte</first-name>
+		<last-name>Brubaker</last-name>
+		<street>1795 Ninth Street</street>
+		<city>Chester</city>
+		<state>KS</state>
+		<zip>71047</zip>
+	</customer>
+	<customer id="79">
+		<first-name>Chantal</first-name>
+		<last-name>Reis</last-name>
+		<street>726 Park Blvd.</street>
+		<city>Mims</city>
+		<state>IL</state>
+		<zip>53667</zip>
+	</customer>
+	<customer id="80">
+		<first-name>Lorena</first-name>
+		<last-name>Vanburen</last-name>
+		<street>2959 Third Blvd.</street>
+		<city>Shenandoah</city>
+		<state>VT</state>
+		<zip>14639</zip>
+	</customer>
+	<customer id="81">
+		<first-name>Aliza</first-name>
+		<last-name>Savage</last-name>
+		<street>2757 Pine Street</street>
+		<city>Encinitas</city>
+		<state>GA</state>
+		<zip>17107</zip>
+	</customer>
+	<customer id="82">
+		<first-name>Harriette</first-name>
+		<last-name>Wilkinson</last-name>
+		<street>3086 Second Circle</street>
+		<city>Georgetown</city>
+		<state>MD</state>
+		<zip>77921</zip>
+	</customer>
+	<customer id="83">
+		<first-name>Azuka</first-name>
+		<last-name>Edmonds</last-name>
+		<street>2248 Hill Blvd.</street>
+		<city>Beverly Hills</city>
+		<state>NY</state>
+		<zip>67696</zip>
+	</customer>
+	<customer id="84">
+		<first-name>Trent</first-name>
+		<last-name>Hartman</last-name>
+		<street>2784 Hill Avenue</street>
+		<city>Kettering</city>
+		<state>WI</state>
+		<zip>71098</zip>
+	</customer>
+	<customer id="85">
+		<first-name>Jameson</first-name>
+		<last-name>Medeiros</last-name>
+		<street>1508 First Road</street>
+		<city>Cocoa</city>
+		<state>OH</state>
+		<zip>24587</zip>
+	</customer>
+	<customer id="86">
+		<first-name>Komala</first-name>
+		<last-name>Brockman</last-name>
+		<street>3774 First Avenue</street>
+		<city>Kittery</city>
+		<state>MA</state>
+		<zip>87409</zip>
+	</customer>
+	<customer id="87">
+		<first-name>Brice</first-name>
+		<last-name>Goodman</last-name>
+		<street>661 Ninth Street</street>
+		<city>Hyrum</city>
+		<state>OH</state>
+		<zip>55954</zip>
+	</customer>
+	<customer id="88">
+		<first-name>Curtiss</first-name>
+		<last-name>Stinson</last-name>
+		<street>4189 Sixth Road</street>
+		<city>Miami Lakes</city>
+		<state>IN</state>
+		<zip>78659</zip>
+	</customer>
+	<customer id="89">
+		<first-name>Kylan</first-name>
+		<last-name>Do</last-name>
+		<street>61 View Avenue</street>
+		<city>Pittsford</city>
+		<state>MA</state>
+		<zip>17395</zip>
+	</customer>
+	<customer id="90">
+		<first-name>Hershel</first-name>
+		<last-name>Fortier</last-name>
+		<street>1601 View Avenue</street>
+		<city>Kings Point</city>
+		<state>MA</state>
+		<zip>85014</zip>
+	</customer>
+	<customer id="91">
+		<first-name>Conway</first-name>
+		<last-name>Quinn</last-name>
+		<street>809 View Circle</street>
+		<city>Susanville</city>
+		<state>VA</state>
+		<zip>67556</zip>
+	</customer>
+	<customer id="92">
+		<first-name>Latifah</first-name>
+		<last-name>Worrell</last-name>
+		<street>107 Pine Blvd.</street>
+		<city>Boulder</city>
+		<state>IL</state>
+		<zip>53104</zip>
+	</customer>
+	<customer id="93">
+		<first-name>Marita</first-name>
+		<last-name>Goode</last-name>
+		<street>3823 Pine Circle</street>
+		<city>North Ridgeville</city>
+		<state>VA</state>
+		<zip>88810</zip>
+	</customer>
+	<customer id="94">
+		<first-name>Finette</first-name>
+		<last-name>Streeter</last-name>
+		<street>171 Lake Street</street>
+		<city>Garden City Park</city>
+		<state>OH</state>
+		<zip>89023</zip>
+	</customer>
+	<customer id="95">
+		<first-name>Willam</first-name>
+		<last-name>Mcclendon</last-name>
+		<street>4378 Oak Avenue</street>
+		<city>Linganore-Bartonsville</city>
+		<state>MO</state>
+		<zip>53267</zip>
+	</customer>
+	<customer id="96">
+		<first-name>Anjali</first-name>
+		<last-name>Batiste</last-name>
+		<street>2810 Park Street</street>
+		<city>Port Orange</city>
+		<state>CA</state>
+		<zip>35262</zip>
+	</customer>
+	<customer id="97">
+		<first-name>Mabli</first-name>
+		<last-name>Mares</last-name>
+		<street>3697 Maple Road</street>
+		<city>Lexington</city>
+		<state>IL</state>
+		<zip>76966</zip>
+	</customer>
+	<customer id="98">
+		<first-name>Agnes</first-name>
+		<last-name>Dutton</last-name>
+		<street>4469 Seventh Avenue</street>
+		<city>Seattle</city>
+		<state>NY</state>
+		<zip>73162</zip>
+	</customer>
+	<customer id="99">
+		<first-name>Kilenya</first-name>
+		<last-name>Mccarty</last-name>
+		<street>3958 Maple Road</street>
+		<city>Clifton</city>
+		<state>NY</state>
+		<zip>97532</zip>
+	</customer>
+	<customer id="100">
+		<first-name>Luciano</first-name>
+		<last-name>Shipp</last-name>
+		<street>2415 Seventh Street</street>
+		<city>North Decatur</city>
+		<state>OK</state>
+		<zip>24921</zip>
+	</customer>
+	<customer id="101">
+		<first-name>Henri</first-name>
+		<last-name>Bezemer</last-name>
+		<street>Zoomwijcklaan 117</street>
+		<city>Oud-Beijerland</city>
+		<state>ZH</state>
+		<zip>3263RH</zip>
+	</customer>
+</customers>
